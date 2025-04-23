@@ -1,0 +1,30 @@
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 04\Tutorial 4-6\String Finder\String Finder\bin\Debug\String Finder.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 04\Tutorial 4-6\String Finder\String Finder\bin\Debug\String Finder.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 04\Tutorial 4-6\String Finder\String Finder\bin\Debug\String Finder.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 04\Tutorial 4-6\String Finder\String Finder\obj\x86\Debug\String_Finder.Form1.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 04\Tutorial 4-6\String Finder\String Finder\obj\x86\Debug\String_Finder.Resources.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 04\Tutorial 4-6\String Finder\String Finder\obj\x86\Debug\String Finder.vbproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 04\Tutorial 4-6\String Finder\String Finder\obj\x86\Debug\String Finder.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 04\Tutorial 4-6\String Finder\String Finder\obj\x86\Debug\String Finder.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 04\Tutorial 4-6\String Finder\String Finder\obj\x86\Debug\String Finder.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap4\String Finder\String Finder\obj\x86\Debug\String Finder.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap4\String Finder\String Finder\obj\x86\Debug\String Finder.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap4\String Finder\String Finder\obj\x86\Debug\String Finder.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap4\String Finder\String Finder\bin\Debug\String Finder.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap4\String Finder\String Finder\bin\Debug\String Finder.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap4\String Finder\String Finder\bin\Debug\String Finder.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap4\String Finder\String Finder\obj\x86\Debug\String_Finder.Form1.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap4\String Finder\String Finder\obj\x86\Debug\String_Finder.Resources.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap4\String Finder\String Finder\obj\x86\Debug\String Finder.vbproj.GenerateResource.Cache
+D:\sovb15\student sample programs\Chap4\String Finder\String Finder\obj\x86\Debug\String Finder.exe
+D:\sovb15\student sample programs\Chap4\String Finder\String Finder\obj\x86\Debug\String Finder.xml
+D:\sovb15\student sample programs\Chap4\String Finder\String Finder\obj\x86\Debug\String Finder.pdb
+D:\sovb 8e\student sample programs\Chap4\String Finder\String Finder\bin\Debug\String Finder.exe
+D:\sovb 8e\student sample programs\Chap4\String Finder\String Finder\bin\Debug\String Finder.pdb
+D:\sovb 8e\student sample programs\Chap4\String Finder\String Finder\bin\Debug\String Finder.xml
+D:\sovb 8e\student sample programs\Chap4\String Finder\String Finder\obj\x86\Debug\String_Finder.Form1.resources
+D:\sovb 8e\student sample programs\Chap4\String Finder\String Finder\obj\x86\Debug\String_Finder.Resources.resources
+D:\sovb 8e\student sample programs\Chap4\String Finder\String Finder\obj\x86\Debug\String Finder.vbproj.GenerateResource.Cache
+D:\sovb 8e\student sample programs\Chap4\String Finder\String Finder\obj\x86\Debug\String Finder.exe
+D:\sovb 8e\student sample programs\Chap4\String Finder\String Finder\obj\x86\Debug\String Finder.xml
+D:\sovb 8e\student sample programs\Chap4\String Finder\String Finder\obj\x86\Debug\String Finder.pdb

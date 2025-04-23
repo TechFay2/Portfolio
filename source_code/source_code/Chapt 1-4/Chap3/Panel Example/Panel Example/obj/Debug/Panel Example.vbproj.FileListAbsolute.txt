@@ -1,0 +1,13 @@
+C:\Users\Tony\AppData\Local\Temporary Projects\Panel Example\bin\Debug\Panel Example.exe.config
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\Panel Example\Panel Example\bin\Debug\Panel Example.exe.config
+D:\sovb 8e\student sample programs\Chap3\Panel Example\Panel Example\bin\Debug\Panel Example.exe.config
+D:\sovb 8e\student sample programs\Chap3\Panel Example\Panel Example\bin\Debug\Panel Example.exe
+D:\sovb 8e\student sample programs\Chap3\Panel Example\Panel Example\bin\Debug\Panel Example.pdb
+D:\sovb 8e\student sample programs\Chap3\Panel Example\Panel Example\bin\Debug\Panel Example.xml
+D:\sovb 8e\student sample programs\Chap3\Panel Example\Panel Example\obj\Debug\Panel Example.vbprojResolveAssemblyReference.cache
+D:\sovb 8e\student sample programs\Chap3\Panel Example\Panel Example\obj\Debug\Panel_Example.Form1.resources
+D:\sovb 8e\student sample programs\Chap3\Panel Example\Panel Example\obj\Debug\Panel_Example.Resources.resources
+D:\sovb 8e\student sample programs\Chap3\Panel Example\Panel Example\obj\Debug\Panel Example.vbproj.GenerateResource.Cache
+D:\sovb 8e\student sample programs\Chap3\Panel Example\Panel Example\obj\Debug\Panel Example.exe
+D:\sovb 8e\student sample programs\Chap3\Panel Example\Panel Example\obj\Debug\Panel Example.xml
+D:\sovb 8e\student sample programs\Chap3\Panel Example\Panel Example\obj\Debug\Panel Example.pdb

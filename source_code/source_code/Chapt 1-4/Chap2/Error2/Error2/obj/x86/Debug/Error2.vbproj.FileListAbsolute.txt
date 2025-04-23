@@ -1,0 +1,3 @@
+D:\sovb 8e\student sample programs\Chap2\Error2\Error2\obj\x86\Debug\Error2.Form1.resources
+D:\sovb 8e\student sample programs\Chap2\Error2\Error2\obj\x86\Debug\Error2.Resources.resources
+D:\sovb 8e\student sample programs\Chap2\Error2\Error2\obj\x86\Debug\Error2.vbproj.GenerateResource.Cache

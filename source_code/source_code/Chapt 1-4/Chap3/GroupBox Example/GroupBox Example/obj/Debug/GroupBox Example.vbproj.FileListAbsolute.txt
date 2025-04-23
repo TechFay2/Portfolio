@@ -1,0 +1,34 @@
+C:\Users\Tony\AppData\Local\Temporary Projects\GroupBox Example\bin\Debug\GroupBox Example.exe.config
+C:\Users\Tony\AppData\Local\Temporary Projects\GroupBox Example\bin\Debug\GroupBox Example.exe
+C:\Users\Tony\AppData\Local\Temporary Projects\GroupBox Example\bin\Debug\GroupBox Example.pdb
+C:\Users\Tony\AppData\Local\Temporary Projects\GroupBox Example\bin\Debug\GroupBox Example.xml
+C:\Users\Tony\AppData\Local\Temporary Projects\GroupBox Example\obj\Debug\GroupBox Example.vbprojResolveAssemblyReference.cache
+C:\Users\Tony\AppData\Local\Temporary Projects\GroupBox Example\obj\Debug\GroupBox_Example.Form1.resources
+C:\Users\Tony\AppData\Local\Temporary Projects\GroupBox Example\obj\Debug\GroupBox_Example.Resources.resources
+C:\Users\Tony\AppData\Local\Temporary Projects\GroupBox Example\obj\Debug\GroupBox Example.vbproj.GenerateResource.Cache
+C:\Users\Tony\AppData\Local\Temporary Projects\GroupBox Example\obj\Debug\GroupBox Example.exe
+C:\Users\Tony\AppData\Local\Temporary Projects\GroupBox Example\obj\Debug\GroupBox Example.xml
+C:\Users\Tony\AppData\Local\Temporary Projects\GroupBox Example\obj\Debug\GroupBox Example.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\GroupBox Example\GroupBox Example\bin\Debug\GroupBox Example.exe.config
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.pdb
+D:\Dropbox\SharedWithTony\student sample programs\Student Sample Programs\Chap3\GroupBox Example\GroupBox Example\bin\Debug\GroupBox Example.exe.config
+D:\Dropbox\SharedWithTony\student sample programs\Student Sample Programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.exe
+D:\Dropbox\SharedWithTony\student sample programs\Student Sample Programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.xml
+D:\Dropbox\SharedWithTony\student sample programs\Student Sample Programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.pdb
+D:\sovb15\student sample programs\Chap3\GroupBox Example\GroupBox Example\bin\Debug\GroupBox Example.exe.config
+D:\sovb15\student sample programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.exe
+D:\sovb15\student sample programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.xml
+D:\sovb15\student sample programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.pdb
+D:\sovb 8e\student sample programs\Chap3\GroupBox Example\GroupBox Example\bin\Debug\GroupBox Example.exe.config
+D:\sovb 8e\student sample programs\Chap3\GroupBox Example\GroupBox Example\bin\Debug\GroupBox Example.exe
+D:\sovb 8e\student sample programs\Chap3\GroupBox Example\GroupBox Example\bin\Debug\GroupBox Example.pdb
+D:\sovb 8e\student sample programs\Chap3\GroupBox Example\GroupBox Example\bin\Debug\GroupBox Example.xml
+D:\sovb 8e\student sample programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.vbprojResolveAssemblyReference.cache
+D:\sovb 8e\student sample programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox_Example.Form1.resources
+D:\sovb 8e\student sample programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox_Example.Resources.resources
+D:\sovb 8e\student sample programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.vbproj.GenerateResource.Cache
+D:\sovb 8e\student sample programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.exe
+D:\sovb 8e\student sample programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.xml
+D:\sovb 8e\student sample programs\Chap3\GroupBox Example\GroupBox Example\obj\Debug\GroupBox Example.pdb
