@@ -1,0 +1,53 @@
+C:\Users\Chris\documents\visual studio 10\Projects\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Salary Calculator\Salary Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary_Calculator.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary_Calculator.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\Salary Calculator\Salary Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Salary Calculator\Salary Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.exe
+C:\Users\Chris\documents\visual studio 10\Projects\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.xml
+C:\Users\Chris\documents\visual studio 10\Projects\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.pdb
+C:\Users\Tony\Documents\Books\VB\VB 6th Edition (Future)\Completed Tutorials\Chapter 03\Tutorial 3-10\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.exe
+C:\Users\Tony\Documents\Books\VB\VB 6th Edition (Future)\Completed Tutorials\Chapter 03\Tutorial 3-10\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.xml
+C:\Users\Tony\Documents\Books\VB\VB 6th Edition (Future)\Completed Tutorials\Chapter 03\Tutorial 3-10\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.pdb
+C:\Users\Tony\Documents\Books\VB\VB 6th Edition (Future)\Completed Tutorials\Chapter 03\Tutorial 3-10\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe
+C:\Users\Tony\Documents\Books\VB\VB 6th Edition (Future)\Completed Tutorials\Chapter 03\Tutorial 3-10\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.pdb
+C:\Users\Tony\Documents\Books\VB\VB 6th Edition (Future)\Completed Tutorials\Chapter 03\Tutorial 3-10\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.xml
+C:\Users\Tony\Documents\Books\VB\VB 6th Edition (Future)\Completed Tutorials\Chapter 03\Tutorial 3-10\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary_Calculator.Form1.resources
+C:\Users\Tony\Documents\Books\VB\VB 6th Edition (Future)\Completed Tutorials\Chapter 03\Tutorial 3-10\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary_Calculator.Resources.resources
+C:\Users\Tony\Documents\Books\VB\VB 6th Edition (Future)\Completed Tutorials\Chapter 03\Tutorial 3-10\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.vbproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 03\Tutorial 3-7\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 03\Tutorial 3-7\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 03\Tutorial 3-7\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 03\Tutorial 3-7\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 03\Tutorial 3-7\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 03\Tutorial 3-7\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 03\Tutorial 3-7\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary_Calculator.Form1.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 03\Tutorial 3-7\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary_Calculator.Resources.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 03\Tutorial 3-7\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.vbproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Completed Tutorials\Chapter 03\Tutorial 3-7\Salary Calculator\Salary Calculator\obj\x86\Debug\Salary Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\NEW Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary Calculator.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\NEW Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary Calculator.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\NEW Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary Calculator.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\NEW Multiple Exceptions\Salary Calculator\bin\Debug\Salary Calculator.exe
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\NEW Multiple Exceptions\Salary Calculator\bin\Debug\Salary Calculator.pdb
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\NEW Multiple Exceptions\Salary Calculator\bin\Debug\Salary Calculator.xml
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\NEW Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\NEW Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary_Calculator.Form1.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\NEW Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary_Calculator.Resources.resources
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\NEW Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary Calculator.vbproj.GenerateResource.Cache
+D:\sovb15\student sample programs\Chap3\Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary Calculator.exe
+D:\sovb15\student sample programs\Chap3\Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary Calculator.xml
+D:\sovb15\student sample programs\Chap3\Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary Calculator.pdb
+D:\sovb 8e\student sample programs\Chap3\Multiple Exceptions\Salary Calculator\bin\Debug\Salary Calculator.exe
+D:\sovb 8e\student sample programs\Chap3\Multiple Exceptions\Salary Calculator\bin\Debug\Salary Calculator.pdb
+D:\sovb 8e\student sample programs\Chap3\Multiple Exceptions\Salary Calculator\bin\Debug\Salary Calculator.xml
+D:\sovb 8e\student sample programs\Chap3\Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary Calculator.vbprojResolveAssemblyReference.cache
+D:\sovb 8e\student sample programs\Chap3\Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary_Calculator.Form1.resources
+D:\sovb 8e\student sample programs\Chap3\Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary_Calculator.Resources.resources
+D:\sovb 8e\student sample programs\Chap3\Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary Calculator.vbproj.GenerateResource.Cache
+D:\sovb 8e\student sample programs\Chap3\Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary Calculator.exe
+D:\sovb 8e\student sample programs\Chap3\Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary Calculator.xml
+D:\sovb 8e\student sample programs\Chap3\Multiple Exceptions\Salary Calculator\obj\x86\Debug\Salary Calculator.pdb

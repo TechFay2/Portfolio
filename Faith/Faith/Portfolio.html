@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <Meta name="veiwport" content="width=device-width, initial-scale=1.0">
+            <title>Personal Portfolio Website</title>
+            <link rel="stylesheet" href="Portfolio.css">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+            <style>
+                body {
+                    background-image: url(cosmetic.jpg);
+                background-repeat: no-repeat;
+                    background-size: cover;
+                
+                }
+                
+                
+            </style>
+            
+            
+
+ 
+    </head> 
+    <body>
+      
+        <div class="container">
+            <nav>
+                <img src="fayy.jpg" class="logo">
+                <ul id="sidemenu">
+                    <li><a href="#header">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#Portfolio">Portfolio</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
+                    <i class="fa-solid fa-circle-xmark" onclick="closemenu()"></i>
+                </ul>
+                <i class="fa-solid fa-bars" onclick="openmenu()"></i> 
+            </nav>
+            <div class="header-text">
+                <p>Graphic Designer</p>
+                <h1>Hi, I'm <span>Faith</span><br> Mutheu from Kenya</h1>
+            </div>
+        <!---------about---------->
+        </div>
+        <div id="about">
+            <div class="container">l
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="mutheu.jpg" width="300px" height="400px">
+                </div>
+                <div class="about-col-2">
+                    <h1 class="sub-title">About me</h1>
+                    
+                <p>Passionates in graphic design and creative industry since i was in highschool.Always looking forward to improving myself and learn something new to improving my skills.I loved to learning by doing and capable to work in team well.I also love to spread happiness. I'm also alway/s relied upon as a creative thinker in all events, I'm able to analyse situations, outsmart rooms, and time management quite well. Being interested in art and  drawing I've been creating visually pleasant things since my childhood. For a long time I was found of illustration and creation. I'm happy to share my work with you.</p>
+                
+                <div class="tab-titles">
+                 <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                 <p class="tab-links" onclick="opentab('experience')">Experience</p>
+                 <p class="tab-links" onclick="opentab('education')">Education</p>
+
+                </div>
+                    
+                    <div class="tab-contents active-tab" id="skills">
+                        <ul>
+                            <li><span>UI?UX</span><br>Designing web/App interfaces</li>
+                            <li><span>Web Development</span><br>Web app development</li>
+                            <li><span>App Development</span><br>Building Android/iOS apps</li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="experience">
+                        <ul>
+                            <li><span>2026-Currrent</span><br>UI/UX Design Training at UON institute</li>
+                            <li><span>2025-2026</span><br>Team lead SOLU Tech Solutions Company</li>
+                            <li><span>2024-2025</span><br>UI/UX Design Executive at Fi Tech Company</li>
+                            <li><span>2023-2024</span><br>Internship VIFI ecommerce</li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="education">
+                        <ul>
+                            <li><span>2026</span><br>UI/UX Design Training at UON institute</li>
+                            <li><span>Web Development</span><br>BTech from UON Kenya</li>
+                            <li><span>App Development</span><br>DTech from TUK Kenya</li>
+                        </ul>
+                    </div>  
+       </div>
+            </div>
+            
+            </div>
+        </div>
+    <!-------------services------------->
+    <div id="services">
+        
+            <h1>My Services</h1>
+            <div class="services-container">
+                <div class="service-column">
+                    <i class="fa-solid fa-code"></i>
+                    <h2>Web Design</h2>
+                    
+                <p>Bring your ideas to life with a professionally designed website that's crafted to make a lasting impresssion. We specialize in creating responsive, visually engaging, and user-friendly websites that capture your unique brand identity.</p>
+                <a href="#">Learn more</a>
+                </div>
+                <div class="service-column">
+                <i class="fa-solid fa-crop-simple"></i>
+                    <h2>UI/UX</h2>
+                    <p>We specialize in creating inituitive, user-ceentered designs that ensure a seamless and engaging experience.Our UI/UX design services focus on both the aesthetics and functionality of your product to help you stand out in the digital space.</p>
+                    <a href="#">Learn more</a>
+                    
+                </div>
+                <div class="service-column">
+                    <i class="fa-brands fa-app-store"></i>
+                    <h2>App Design</h2>
+                    <p>We create sleek, inituitive, and user-friendly mobile app designs that are both visually stunnning and highly functional. Our goal is to deliver seamless user experiences that keep your users engaged and satisfied, whether on iOS or Androind. </p>
+                    <a href="#">Learn more</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!----------portfolio---------->
+    <div id="Portfolio">
+        <div class="container"></div>
+            <h1 class="sub-title">My work</h1>
+            <div class="work-list">
+            <div class="work">
+                <img src="phone1.jpg" width="350" height="240">
+                <div class="layer">
+                    <h3>Social Media App</h3>
+                    <p>The app connects you to the talented people <br>around the world.Download it from playstore.</p>
+                    <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+                </div>
+            </div>
+            <div class="work">
+                <img src="phone2.jpg" width="350" height="240">
+                <div class="layer">
+                <h3>Music App</h3>
+                <p>The app connects you to the talented people <br>around the world.Download it from playstore.</p>
+                <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+                </div>
+            </div>
+            <div class="work">
+                <img src="phone3.jpg" width="350" height="240">
+                <div class="layer">
+                <h3>Online Shopping App</h3>
+                <p>The app connects you to the talented people <br>around the world.Download it from playstore.</p>
+                <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+            </div>
+                
+</div>
+                
+            </div>
+            <a href="#" class="btn">See more</a>
+        </div>
+    </div>
+    <!----------------contact---------->
+    <div id="contact"
+        <div class="container">
+            <div class="row">
+                <div class="contact-left">
+                    <h1 class="sub-title">Contact Me</h1>
+                    <p><i class="fa-solid fa-paper-plane"></i>contact@Fi Tech.com</p>
+                    <p><i class="fa-solid fa-phone"></i>+254 743674617</p>
+                    <div class="social-icons">
+                        <a href="https://facebook.com"><i class="fa-brands fa-facebook"></i></a>
+                        <a href=""><i class="fa-brands fa-twitter"></i></a>
+                        <a href=""><i class="fa-brands fa-instagram"></i></a>
+                        <a href=""><i class="fa-brands fa-linkedin"></i></a>
+                        <a href=""><i class="fa-brands fa-whatsapp"></i></a>
+                        
+                    </div>
+                    <a href="CURRICULUM VITAE.docx" download class="btn btn2">Download CV</a>
+           
+                </div>
+                <div class="contact-right"></div>
+                <form>
+                    <input type="text" name="Name" placeholder="Your Name" required>
+                    <input type="email" name="email" placeholder="Your Email" required>
+                    <textarea name="Message" rows="6" placeholder="Your Message" required></textarea>
+                    <button type="submit" class="btn2">Submit</button>
+                </form>
+            </div>
+
+        </div>
+        <div class="copyright">
+            <p><i class="fa-solid fa-heart"></i>Copyright @Faith Mutheu. <i class="fa-solid fa-heart"></i>Made with Fi Tech</p>
+        </div>
+    </div>
+        <script>
+            var tablinks = document.getElementsByClassName("tab-links");
+            var tabcontents = document.getElementsByClassName("tab-contents");
+            
+            function opentab(tabname){
+                for(tablink of tablinks){
+                    tablink.classList.remove("active-link");
+                }
+                for(tabcontent of tabcontents){
+                    tabcontent.classList.remove("active-tab");
+                } 
+                event.currentTarget.classList.add("active-link"); 
+                document.getElementById(tabname).classList.add("active-tab");
+                }
+            
+            
+            
+        </script>
+        <script>
+            var sidemenu= document.getElementById("sidemenu");
+            function openmenu(){
+                sidemenu.style.right= "0";
+
+            }
+            function closemenu(){
+                sidemenu.style.right= "-200px";
+            }
+
+            
+        </script>
+    </body> 
+    
+</html>

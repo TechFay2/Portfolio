@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cute Love Heart</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #fff5f7;
+      font-family: Arial, sans-serif;
+    }
+
+    .heart-container {
+      position: relative;
+      width: 150px;
+      height: 150px;
+      cursor: pointer;
+    }
+
+    .heart {
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      background-color: #ff6b6b;
+      transform: rotate(-45deg);
+      top: 25px;
+      left: 25px;
+      transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
+    }
+
+    .heart::before,
+    .heart::after {
+      content: '';
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      background-color: #ff6b6b;
+      border-radius: 50%;
+      transition: background-color 0.3s ease-in-out;
+    }
+
+    .heart::before {
+      top: -50px;
+      left: 0;
+    }
+
+    .heart::after {
+      top: 0;
+      left: 50px;
+    }
+
+    .heart-message {
+      position: absolute;
+      top: 140px;
+      width: 100%;
+      text-align: center;
+      color: #ff6b6b;
+      font-size: 18px;
+      font-weight: bold;
+      opacity: 0;
+      transform: translateY(-10px);
+      transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+    }
+
+    .heart-container.active .heart {
+      transform: rotate(-45deg) scale(1.2);
+      background-color: #ff4d4d;
+    }
+
+    .heart-container.active .heart::before,
+    .heart-container.active .heart::after {
+      background-color: #ff4d4d;
+    }
+
+    .heart-container.active .heart-message {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  </style>
+</head>
+<body>
+  <div class="heart-container">
+    <div class="heart"></div>
+    <div class="heart-message">You Are Loved ❤️</div>
+  </div>
+
+  <script>
+    const heartContainer = document.querySelector('.heart-container');
+
+    heartContainer.addEventListener('click', () => {
+      heartContainer.classList.toggle('active');
+    });
+  </script>
+</body>
+</html>
